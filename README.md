@@ -8,3 +8,5 @@ Build of this project fails with
 [ERROR]   class file for aQute.bnd.annotation.ConsumerType not found
 
 Build will finish successfully when downgrading acs-aem-commons-bundle to 4.7.0 or lower.
+
+Related Issue: https://github.com/Adobe-Consulting-Services/acs-aem-commons/issues/3223
